@@ -50,6 +50,8 @@ display: flex;
 justify-content: space-evenly;
 gap: 16px;
 padding: 24px 72px;
+align-items: center;
+
 }
 
 h1,
